@@ -9,7 +9,7 @@ This project also includes a fully featured class for generating TwiML (Twilio's
 
 ## TwiML Examples
 
-Here is an example TwiML snippet from the Twilio docs:
+Here is an example TwiML snippet from the [Twilio docs](http://www.twilio.com/docs/api/twiml/gather):
 
     <?xml version="1.0" encoding="UTF-8"?>  
     <Response>  

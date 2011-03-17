@@ -1,4 +1,4 @@
-# Twilio Service ![Project status](http://http://stillmaintained.com/leek/twilio-zf-service.png)
+# Twilio Service ![Project status](http://stillmaintained.com/leek/twilio-zf-service.png)
 Twilio API client written in PHP utilizing Zend Framework's Zend_Rest
 
 ## About
